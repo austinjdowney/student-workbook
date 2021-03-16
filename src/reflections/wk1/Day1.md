@@ -2,7 +2,7 @@
 
 ## Daily Journal - Read Building Blocks Of Web Development > GIT 101 and answer the following questions
 
-## Why do we use Git?
+1. Why do we use Git?
 
 2. What are the benefits of having multiple branches>
 
