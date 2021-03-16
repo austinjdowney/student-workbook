@@ -12,7 +12,7 @@ To be able to share information with individuals on a project to then move forwa
 
 3. What is the difference between Git and GitHub?
 
-
+Git is a repository, whether local or remote, that helps track changes on certain projects versus GitHub, which provides access to be able to track and share multiple Git repositories, if need be, for others to be able to work on.
 
 ## Links
 <!-- example of linking HTML -->
