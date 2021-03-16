@@ -4,9 +4,15 @@
 
 1. Why do we use Git?
 
+Git ensures the easiness of continually uploading projects through a version control system that is then shared and viewed by others within the same project.
+
 2. What are the benefits of having multiple branches>
 
+To be able to share information with individuals on a project to then move forward on similar differing paths.
+
 3. What is the difference between Git and GitHub?
+
+
 
 ## Links
 <!-- example of linking HTML -->
