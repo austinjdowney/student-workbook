@@ -2,7 +2,7 @@
 
 ## Daily Journal - Read Building Blocks Of Web Development > CSS and answer the following questions
 
-## What is a Pseudo-Class and what are some of the most common ones you think you will use
+1. What is a Pseudo-Class and what are some of the most common ones you think you will use
 
 2. What is Specificity and how might you use it to your benefit?
 
