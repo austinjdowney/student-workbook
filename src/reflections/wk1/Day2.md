@@ -1,6 +1,8 @@
-## Day 2 - HTML and CSS
+## Day 2 = HTML and CSS
 
-## Daily Journal - Read Building Blocks Of Web Development > CSS and answer the following questions
+## Daily Afternoon Challenge: https://github.com/austinjdowney/coolsite.git
+
+Daily Journal - Read Building Blocks Of Web Development > CSS and answer the following questions
 
 1. What is a Pseudo-Class and what are some of the most common ones you think you will use
     -A pseudo-class helps style elements based off their value in relation to other elements and rules, but also towards external factors. The two I believe I will use the most will be :hover, in order to style certain shading to elements if an user intends to use a certain button or element, and also :active to help activate a button for example that a user intends to use to help enable that functionality, but can still be overridden if there is higher specifier.

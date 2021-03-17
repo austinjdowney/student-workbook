@@ -1,6 +1,8 @@
-## Day 3 - Building blocks of web development
+## Day 3 = Building blocks of web development
 
-## Daily Journal - Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
+## DailyChallenge: Morning:https://github.com/austinjdowney/stoplightchallenge.git AFTERNOON:
+
+Daily Journal - Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
 
 1. What is your favorite tip that you think is the most beneficial to improving your design?
 
