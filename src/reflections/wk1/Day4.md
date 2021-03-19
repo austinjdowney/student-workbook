@@ -1,8 +1,6 @@
 ## Day 4 - WIRE-FRAMING, DESIGN TOOLS AND REVIEW
 
-## Afternoon partner challenge: https://github.com/lanericharddavis/JohnDeere-Challenge.git
-
--we both assisted with writing the code but used one computer to help make the writing process easier 
+## Afternoon partner challenge: https://github.com/austinjdowney/JohnDeere-Challenge.git
 
 ## Daily Journal - Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
 
