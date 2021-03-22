@@ -1,6 +1,6 @@
 ## Day 3 = Building blocks of web development
 
-## DailyChallenge: Morning:https://github.com/austinjdowney/stoplightchallenge.git AFTERNOON:
+## DailyChallenge: Morning:https://github.com/austinjdowney/stoplightchallenge.git AFTERNOON:https://github.com/austinjdowney/bootstrap.git
 
 Daily Journal - Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
 
