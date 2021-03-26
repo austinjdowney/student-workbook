@@ -1,8 +1,8 @@
 ## Day 1 W2 = Intro to JS
 
-## Afternoon challenge:
+## Afternoon challenge: https://austinjdowney.github.io/js-tests-basics/.
 
-## Daily Journal
+Daily Journal
 Read Intro to JS > Var, let and const and answer the following questions
 1. What is Scope ?
 
