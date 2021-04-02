@@ -1,6 +1,6 @@
 ## Day 4: Time Intervals and Local Storage
 
-## Afternoon challenge:
+## Afternoon challenge:https://austinjdowney.github.io/Slap-Game-Partner/
 
 Daily Journal
 Read Intro to JS > The Mistakes I Made As a Beginner Programmer and answer the following questions
