@@ -1,4 +1,4 @@
-## Day 3 = JavaScript Classes
+## Day 1 = JavaScript Classes
 
 ## Afternoon Challenge: https://austinjdowney.github.io/zookeeperChallenge/
 
