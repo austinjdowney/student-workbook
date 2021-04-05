@@ -1,6 +1,6 @@
 ## Day 3 = Forms and Templates
 
-## Afternoon challenges:
+## Afternoon challenges:https://austinjdowney.github.io/gregslistafternoonchallenge/
 
 Daily Journal
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions

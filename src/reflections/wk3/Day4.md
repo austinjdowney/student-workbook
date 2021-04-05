@@ -1,6 +1,6 @@
 ## Day 4 = Working in MVC with complex data, array methods
 
-## Afternoon Challenge: 
+## Afternoon Challenge: https://austinjdowney.github.io/sportinggoodspartnerproject/
 
 Daily Journal
 Read Advancing with JS > The Observer Pattern and answer the following questions
