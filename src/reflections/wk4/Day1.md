@@ -1,6 +1,6 @@
 ## Day1: INTRO TO ASYNCHRONOUS CODE
 
-## Afternoon Challenge:
+## Afternoon Challenge: https://austinjdowney.github.io/trivia-db/
 
 Daily Journal
 
