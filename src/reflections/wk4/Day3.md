@@ -36,6 +36,26 @@ Create a function that takes a number as its argument and returns an array of al
 // factorize(12) ➞ [1, 2, 3, 4, 6, 12]
 // factorize(4) ➞ [1, 2, 4]
 // factorize(17) ➞ [1, 17]
-function factorize(n) {
 
+function factorize(n) {
+<!--:check every number starting at 1
+-if the number is a multiple:perfectly divisible (no remainder)
+-add to array-->
+
+let factors=[]
+    for (let i = 1; i <= n; i ++){
+    if (n % i == 0){
+        factors.push(i)
+    }
+return factors
+    }
 }
+
+<!-- My attempt
+
+for (let i = 1; i <= n; i++){
+    if (n % i==0 ){
+        map?
+    }
+}
+}-->
