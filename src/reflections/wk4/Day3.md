@@ -1,6 +1,6 @@
 ## Day 3: Working with Multiple API's
 
-## Afternoon Challenge:
+## Afternoon Challenge: https://austinjdowney.github.io/pokedex-afternoon-challenge/
 
 Date: Wednesday | Apr 7, 2021
 WORKING WITH MULTIPLE API'S

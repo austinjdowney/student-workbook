@@ -34,7 +34,7 @@ Promises seek to clean up code with "chaining" so it is easier to read between .
 
 ## Morning challenge
 function mostCommonLetter(str) {
-    let mostCommon = ''
+    let mostCommonLetter = ''
 
     //pain don't need to do that
     //let letter= {a:0, b:0, c:0...}
