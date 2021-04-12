@@ -1,6 +1,6 @@
 ## Day 1: INTRO TO NODEJS
 
-## Afternoon Challenge:
+## Afternoon Challenge:https://austinjdowney.github.io/burgernode/
 
 
 Daily Journal
