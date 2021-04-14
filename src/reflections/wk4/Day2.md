@@ -39,7 +39,7 @@ function mostCommonLetter(str) {
     //pain don't need to do that
     //let letter= {a:0, b:0, c:0...}
 
-    for (let i = 0; i < str.legnth; i++) {
+    for (let i = 0; i < str.length; i++) {
         let char = str[i]
 
         //do this instead of writing all the letters out
