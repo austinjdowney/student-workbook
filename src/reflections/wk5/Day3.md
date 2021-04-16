@@ -73,6 +73,53 @@ if (gWorth < eWorth){
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
 1. In simple terms what is a sub-document?
 
+A sub document is a document nested within another document.
+
 2. When might you use a sub-document?
 
+-Passing a nested object into a "new model"
+    a new Schema: {name:,
+    specials: [{},{},{}],
+    ultimate:{}
+    }
+
+
+-Adding properties into the created document 
+
+const collection = new Collection ({name: })
+
+//adds new keys in an array
+const collection.keys = [{
+    name:
+    moves:},
+{name:
+moves:},
+{name:
+moves:}
+}]
+
+//adds new key as an object 
+collection.key={}
+
+
 3. How do you add to a collection of sub-documents? What about editing them?
+
+//To add to a collection... must use find one to target the key in the collection but set it equal to key in the collection. .save is REQUIRED
+
+const key = await Collection.findOne({})
+collection.key.push({
+})
+
+const updated= await key.save()
+
+//To edit a collection also use the .findOne to target the intending key in that collection you'd like to edit
+ 
+then dig in to the property you are liking to change and set that equal to what you'd like to change it to.   .save() is also required here
+
+
+const key = await Collection.findOne({nameOfProperty: ""})
+
+key.object.property=""
+
+const updated= await key.save()
+
