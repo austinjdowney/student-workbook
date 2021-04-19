@@ -1,4 +1,4 @@
-## Day4: 
+## Day4: AUTH
 
 ## Afternoon Challenge:
 
