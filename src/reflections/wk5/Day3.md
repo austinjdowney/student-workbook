@@ -1,6 +1,6 @@
-## Day3: 
+## Day3: Relationships
 
-## Afternoon challenge
+## Afternoon challenge: https://austinjdowney.github.io/daplanetsnodeafternoonchallenge/
 
 ## Morning Challenge:
 

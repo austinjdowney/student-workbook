@@ -8,11 +8,11 @@
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
 
 
-What is a virtual property?
+1. What is a virtual property?
 
 A virtual property are additional fields for a given model or schema.. but aren't saved to the database ( full name is common e.g. user's first and last name)
 
-When might you use a virtual property?
+2. When might you use a virtual property?
 
 When you want to make your code more efficient and only want to write the properties assigned to the keys in a schema just once..
 
