@@ -3,11 +3,13 @@
 Daily Project
 Make requests to a Movie API to build out Vue-Flix.
 
-## Afternoon Challenge:
+## Afternoon Challenge: https://austinjdowney.github.io/vue-nasa-pic/
+
 Use the NASA API to display the Picture of the Day. Allow users to query for a picture from a particular day. NASA APOD Vue-er!
 
 ## Daily Journal
 Read Frontend Frameworks with Vue3 > How to use Props in Vue and answer the following questions
+
 1. What are props?
 
 Props are intedned to pass variables/information between components. (1. place in template where you want it to show up and be injected 2. import it between script tags 3. register it under components at the end of script tags (placement of component object isn't required.. just preferred))
