@@ -1,7 +1,6 @@
 ## Day 4: USING AUTH0 IN VUEJS AND REVUE ADVANCED FRONTEND FRAMEWORKS
 
-## Afternoon Challenge:
-
+## Afternoon Challenge: https://austinjdowney.github.io/vue-blogger/
 ## Daily Journal
 
 Read Frontend Frameworks with Vue3 > Using Nested Routes in Vue.js and answer the following questions
