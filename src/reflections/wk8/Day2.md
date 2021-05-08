@@ -22,3 +22,5 @@ A + service at + speed will be + $$
 A - service at - speed will be - $$
 A - service will always be -$$ but at + speed might be fixed or at least have more time to make + $$
 A + service at -speed will really vary on what the price will be 
+
+create an optimal SCRUM schedule to keep everyone accountable for an optimal MVP in an optimal amount of item 
